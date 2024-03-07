@@ -9,7 +9,7 @@ function submitForm(event) {
     let gender= document.querySelector('input[name="gender"]:checked').value;
     let dob= document.getElementById('dob').value;
     let course= document.getElementById('course').value;
-    let address= document.getElementById('Address').value;
+    let address= document.getElementById('address').value;
     let hobby=document.querySelectorAll('input[name="hobby"]:checked');
 
 
